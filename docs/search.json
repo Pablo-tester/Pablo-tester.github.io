@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo-tester.github.io",
+    "section": "",
+    "text": "This is an example on how to publish a Quarto website in GitHub using RStudio, this website is divided into tabs for each section, the R Python resources section contains online materials to improve our coding skills.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "R and R Eco-system resources\nR tips\nPython tips\nNHS R and Python communities of practice\nR and Python online books"
+  },
+  {
+    "objectID": "resources.html#index",
+    "href": "resources.html#index",
+    "title": "Resources",
+    "section": "",
+    "text": "R and R Eco-system resources\nR tips\nPython tips\nNHS R and Python communities of practice\nR and Python online books"
+  },
+  {
+    "objectID": "resources.html#r",
+    "href": "resources.html#r",
+    "title": "Resources",
+    "section": "R",
+    "text": "R\nR is an open-source programming language that is widely used among statisticians and data scientists in the NHS. R has a large number of built-in functions and packages for statistical analysis and data visualization. Along with tools such as Python1, R can be used to develop so-called reproducible analytical pipelines (RAP).\n\nThe R Project for Statistical Computing https://www.r-project.org/"
+  },
+  {
+    "objectID": "resources.html#posit",
+    "href": "resources.html#posit",
+    "title": "Resources",
+    "section": "POSIT",
+    "text": "POSIT\nPosit is the Company who developed RStudio IDE among other products, previously called RStudio. All your data products have a home on Posit Connect, Deploy R & Python content easily and securely, automate code execution and deliver insights to stakeholders that need them\n\nPosit website: https://posit.co/\n\n\nPOSIT learning resources\nLearning materials from POSIT about R, Python and Quarto\n\nBlogs: https://posit.co/blog/\nCheat sheets: https://posit.co/resources/cheatsheets/\nVideos: https://posit.co/resources/videos/"
+  },
+  {
+    "objectID": "resources.html#quarto",
+    "href": "resources.html#quarto",
+    "title": "Resources",
+    "section": "QUARTO",
+    "text": "QUARTO\nAn Open-source scientific and technical publishing system, available for R, Python and Julia.\n\nQuarto website: https://quarto.org\n\nGet started with Quarto\n\nInstall Quarto: https://quarto.org/docs/get-started/\n\nAuthoring Quarto documents\nQuarto tutorial – Authoring: https://quarto.org/docs/get-started/authoring/rstudio.html\n\nInclude formatted title blocks at the start of the article: https://quarto.org/docs/authoring/title-blocks.html\nQuarto themes: Lumen: https://bootswatch.com/lumen/ Journal: https://bootswatch.com/journal/ Cosmo: https://bootswatch.com/cosmo/ Sandstone: https://bootswatch.com/sandstone/ Spacelab: https://bootswatch.com/spacelab/ Slate:https://bootswatch.com/slate/\nUpdate Quarto documents header date date automatically: https://bookdown.org/yihui/rmarkdown-cookbook/update-date.html\n\n\nCreating websites using Quarto\n\nA couple of resources on how to build a Quarto website:\nCreating it: Creating a Quarto website - YouTube: https://www.youtube.com/watch?v=_bglTCjgcqY\nPublishing it to GitHub: Publishing a Quarto website through GitHub pages - YouTube: https://www.youtube.com/watch?v=uimdXPZc40I\nChanging a Quarto website’s output directory: https://www.youtube.com/watch?v=ZkcY9YQ3iLY"
+  },
+  {
+    "objectID": "resources.html#rstudio",
+    "href": "resources.html#rstudio",
+    "title": "Resources",
+    "section": "RStudio",
+    "text": "RStudio\nRStudio IDE to run R, developed by RStudio now POSIT\n\nRStudio IDE: https://posit.co/products/open-source/rstudio/"
+  },
+  {
+    "objectID": "resources.html#python",
+    "href": "resources.html#python",
+    "title": "Resources",
+    "section": "Python",
+    "text": "Python\nPython main website\n\nPython: https://www.python.org/\n\nPython coding topics and data structures\n\nDictionaries: https://python.land/things-you-didnt-know-about-python-dictionaries"
+  },
+  {
+    "objectID": "resources.html#nhs-r-and-python-communities-of-practise",
+    "href": "resources.html#nhs-r-and-python-communities-of-practise",
+    "title": "Resources",
+    "section": "NHS R and Python communities of practise",
+    "text": "NHS R and Python communities of practise"
+  },
+  {
+    "objectID": "resources.html#nhs-r-community",
+    "href": "resources.html#nhs-r-community",
+    "title": "Resources",
+    "section": "NHS-R Community",
+    "text": "NHS-R Community\nTogether we aim to promote the use of R in the NHS: https://nhsrcommunity.com/ Wider NHS-R community pages and resources, includes links to a number of recorded sessions and training, all based on NHS datasets\n\nNHS-R Events\n\nConferences\n\n\nUpcoming conferences: https://nhsrcommunity.com/events/#event_type-conferences\nShow Past Events: https://nhsrcommunity.com/past-events/\nNHS-R Community Conference 2022: https://nhsrcommunity.com/events/nhs-r-community-conference-2022/\n\n\nGroup Discussions\n\n\nGroup Discussions: https://nhsrcommunity.com/events/#event_type-group-discussion\n\n\nGroup Discussions/workshops\n\n\nWebinars: https://nhsrcommunity.com/events/#event_type-group-discussionworkshops\n\n\nWebinars\n\n\nWebinars: https://nhsrcommunity.com/events/#event_type-webinars\n\n\nWorkshops\n\n\nWorkshops: https://nhsrcommunity.com/events/#event_type-workshops\n\n4.1 Upcoming workshops - NHS-R Workshop: Introduction to R and RStudio – 11th May 2023: https://nhsrcommunity.com/events/nhs-r-workshop-introduction-to-r-and-r-studio-11th-may-2023/\n\nNHS-R Workshop: Forecasting Using R – Advanced Methods – May 2023: https://nhsrcommunity.com/events/nhs-r-workshop-forecasting-using-r-advanced-methods-may-2023/"
+  },
+  {
+    "objectID": "resources.html#nhse-r",
+    "href": "resources.html#nhse-r",
+    "title": "Resources",
+    "section": "NHSE-R",
+    "text": "NHSE-R\nWelcome to the NHS England R community documentation site The NHS England R Community is not intended to replace any other R user groups - there’s a fantastic national NHS-R Community and lots of local sharing of R work, we want to use this site to signpost to other resources for those specifically using R within NHS England.\n\nNHSE-R: https://nhsengland.github.io/nhs-r-reporting\nNHS England R Community Future NHS: https://future.nhs.uk/NHSERcommunity\nReproducible Analytical Pipelines (RAP): https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html"
+  },
+  {
+    "objectID": "resources.html#nhsd--rap-community-of-practice",
+    "href": "resources.html#nhsd--rap-community-of-practice",
+    "title": "Resources",
+    "section": "NHSD- RAP Community of Practice",
+    "text": "NHSD- RAP Community of Practice\nRAP Community of practice: https://nhsdigital.github.io/rap-community-of-practice/\n\nBasic Python data analysis operations: https://nhsdigital.github.io/rap-community-of-practice/training_resources/python/basic-python-data-analysis-operations/"
+  },
+  {
+    "objectID": "resources.html#nhs-python",
+    "href": "resources.html#nhs-python",
+    "title": "Resources",
+    "section": "NHS-Python",
+    "text": "NHS-Python\nPython community to promote the use of Python in the NHS.They organize forums, tutorials and coding sessions:\n\nThe Python Community for Healthcare: https://nhs-pycom.net/"
+  },
+  {
+    "objectID": "resources.html#code-editors",
+    "href": "resources.html#code-editors",
+    "title": "Resources",
+    "section": "Code editors",
+    "text": "Code editors\n\nPycharm: https://www.jetbrains.com/pycharm/download/#section=windows\nRStudio: https://posit.co/download/rstudio-desktop/\nVStudio code: https://code.visualstudio.com/\nHow To Run Selected Lines In VS Code (Visual Studio Code) – YouTube: https://www.youtube.com/watch?v=VXJChVF28jw"
+  },
+  {
+    "objectID": "resources.html#python-tips",
+    "href": "resources.html#python-tips",
+    "title": "Resources",
+    "section": "Python tips",
+    "text": "Python tips\n\nPython Beginners Guide: https://wiki.python.org/moin/BeginnersGuide/Programmers\nThe Python Tutorial: https://docs.python.org/3/tutorial/index.html\nThe 30 Best Python Libraries and Packages for Beginners: https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/\nWhat is os.listdir() in python?: https://www.educative.io/answers/what-is-oslistdir-in-python\nGet unique values from a column in Pandas DataFrame – GeeksforGeeks: https://www.geeksforgeeks.org/get-unique-values-from-a-column-in-pandas-dataframe/\nPython String format(): https://www.programiz.com/python-programming/methods/string/format\nPython - Determine the type of an object? - Stack Overflow: https://stackoverflow.com/questions/2225038/determine-the-type-of-an-object\nGet / check the type of an object in Python: type(), isinstance(): https://note.nkmk.me/en/python-type-isinstance/\nCreate pandas dataframe from lists using zip – GeeksforGeeks: https://www.geeksforgeeks.org/create-pandas-dataframe-from-lists-using-zip/?ref=rp\nUnit Testing for Data Scientists. Using Pytest to improve the stability: https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb\nThe Python Tutorial: https://docs.python.org/3/tutorial/index.html#tutorial-index"
+  },
+  {
+    "objectID": "resources.html#r-tips",
+    "href": "resources.html#r-tips",
+    "title": "Resources",
+    "section": "R tips",
+    "text": "R tips\n\nR Colors: https://www.r-bloggers.com/2012/10/palettes-in-r/\nR colors resource: https://r-charts.com/colors/\nR colors chart: https://rstudio-pubs-static.s3.amazonaws.com/3486_79191ad32cf74955b4502b8530aad627.html\nR chart annotations: https://ggplot2-book.org/annotations.html\nR Camcoder package: https://github.com/thebioengineer/camcorder\nCamcoder package in CRAN: https://cran.r-project.org/web/packages/camcorder/index.html\nCreate design process animations: https://cran.r-project.org/web/packages/camcorder/vignettes/camcorder_record.html\nHTML widgets – useful for Shiny and Markdown reports: https://www.htmlwidgets.org/\nCrosstalk to join some widgets together: https://rstudio.github.io/crosstalk/using.html\nR Graph Gallery: https://r-graph-gallery.com/\nInteractive maps in R using Leaflet: https://rstudio.github.io/leaflet/\nInteractive maps in R using Leaflet: https://rstudio.github.io/leaflet/colors.html\nBasic intro to main axis and legend titles: http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles\nSetting up the R environment: https://ohdsi.github.io/Hades/rSetup.html\nHow to do fuzzy matching in R: https://stylizeddata.com/how-to-do-fuzzy-matching-in-r/\nHow to Recode Factor and Character Variables in R: https://stylizeddata.com/how-to-recode-factor-and-character-variables-in-r/\nDesigning aesthetic and publication ready tables in R: https://github.com/kcuilla/fourth_down_go_rates\nHow to Recode Factor and Character Variables in R: https://stylizeddata.com/how-to-recode-factor-and-character-variables-in-r/\nDriving a web browser with RSelenium: https://www.computerworld.com/article/2971265/how-to-drive-a-web-browser-with-r-and-rselenium.html"
+  },
+  {
+    "objectID": "resources.html#r-tidyverse-universe",
+    "href": "resources.html#r-tidyverse-universe",
+    "title": "Resources",
+    "section": "R Tidyverse universe",
+    "text": "R Tidyverse universe\nThis section contains set of packages that follow Tidyverse data science principles.\n\ntidyverse\nThe tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.\nThe goal of tidyr is to help you create tidy data. Tidy data is data where: 1. Every column is variable. 2. Every row is an observation. 3. Every cell is a single value.\n\nTidyverse main website: https://www.tidyverse.org/\n\nCore Tidyverse packages:\n\nggplot2: https://ggplot2.tidyverse.org/\ndplyr: https://dplyr.tidyverse.org/\ntidyr: https://tidyr.tidyverse.org/\nreadr: https://readr.tidyverse.org/\npurrr: https://purrr.tidyverse.org/\ntibble: https://tibble.tidyverse.org/\nstringr: https://stringr.tidyverse.org/\nforcats: https://forcats.tidyverse.org/\n\n\n\nRelated Tidyverse packages\n\ndbplyr\ndbplyr is the database backend for dplyr. It allows you to use remote database tables as if they are in-memory data frames by automatically converting dplyr code into SQL.\n\nDBPLYR https://dbplyr.tidyverse.org/\n\nUsing function ‘show_query()’ after a set of DPLYR verbs, allows you to generate the SQL that is sent tot he database when you request the data.\n\n\ntidyselect\nTools like starts_with() or contains() are called selection helpers. These tools inspect the variable names currently available for selection with peek_vars(). The variable names are registered automatically by eval_select() for the duration of the evaluation:\nThese selection helpers match variables according to a given pattern\nstarts_with() : Starts with an exact prefix. ends_with() : Ends with an exact suffix. contains() : Contains a literal string. matches() : Matches a regular expression. num_range() : Matches a numerical range like x01, x02, x03.\nTidyselect website: https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/"
+  },
+  {
+    "objectID": "resources.html#maps-in-r-using-ggplot2-and-osm",
+    "href": "resources.html#maps-in-r-using-ggplot2-and-osm",
+    "title": "Resources",
+    "section": "Maps in R using ggplot2 and OSM",
+    "text": "Maps in R using ggplot2 and OSM\n\nAn introduction to plotting maps in R using ggplot2 An introduction to plotting maps in R using ggplot2 can be found on this online book: https://ggplot2-book.org/maps.html\nOpenStreetMap (OSM) Package details: https://cran.r-project.org/web/packages/osmdata/vignettes/osmdata.html\nOpenStreepMap. OSM is a global open access mapping project, which is free and open under the ODbL licence (OpenStreetMap contributors 2017: https://www.openstreetmap.org/#map=6/54.910/-3.432"
+  },
+  {
+    "objectID": "resources.html#online-r-and-python-books",
+    "href": "resources.html#online-r-and-python-books",
+    "title": "Resources",
+    "section": "Online R and Python books",
+    "text": "Online R and Python books\n\nAn introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau: https://intro2r.com/\nWelcome to R for Data Science - Hadley Wickham, Garrett Grolemund: https://r4ds.had.co.nz/\nThink Python -How to Think Like a Computer Scientist - Alllen B. Downey: https://greenteapress.com/thinkpython2/html/index.html\nGgplot2 Elegant Graphics for Data Analysis - Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen: https://ggplot2-book.org/index.html\nGgplot2 Elegant Graphics for Data Analysis - Specific chapter about plotting maps in R: https://ggplot2-book.org/maps.html\nGeocomputation with R: https://bookdown.org/robinlovelace/geocompr/spatial-class.html\nChapter 16. Geospatial- The Big book of r: https://www.bigbookofr.com/geospatial.html"
+  },
+  {
+    "objectID": "resources.html#statistics",
+    "href": "resources.html#statistics",
+    "title": "Resources",
+    "section": "Statistics",
+    "text": "Statistics\n\nProbability distributions\nProbability distributions in R: https://poissonisfish.com/2016/12/04/probability-distributions-in-r/\nBayesian models in R: https://www.r-bloggers.com/2019/05/bayesian-models-in-r-2/"
+  },
+  {
+    "objectID": "resources.html#tables-in-r",
+    "href": "resources.html#tables-in-r",
+    "title": "Resources",
+    "section": "Tables in R",
+    "text": "Tables in R\nSet of R packages to build beautiful Data Tables in R\n\ngt (Easily Create Presentation-Ready Display Tables): https://gt.rstudio.com/\nformattable (produce data structures with formatting rules): https://renkun-ken.github.io/formattable/\nkableExtra (Extend kable tables functionality): https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html\ndb (Interesting DT Package introduction from Yihui Xie website: https://rstudio.github.io/DT/\nflextable (Framework for creating tables for reporting and publications): https://ardata-fr.github.io/flextable-book/\nreactablefmtr (formatting tables using the reactable R library.): https://kcuilla.github.io/reactablefmtr/index.html\n\n\nPOSIT Community Table Gallery\nPOSIT Community Table Gallery: https://community.rstudio.com/c/table-gallery/64"
+  }
+]
